@@ -1,0 +1,53 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Mar 24, 2021, 6:15:11 PM
+    Author     : Dell Inc
+*/
+
+body{
+    background-color: #1c8ef8;
+    font-family: sans-serif;
+}
+.login{
+    width: 300px;
+    height: 350px;
+    background-color: white;
+    border: 1px solid grey;
+    border-radius: 10px;
+    text-align: center;
+    margin: 0 auto;
+}
+.login h2{
+    display: inline-block;
+    color: grey;
+}
+.login input{
+    width: 200px;
+    height: 40px;
+    border-radius: 5px;
+    border: 1px solid grey;
+    padding-left: 20px;
+    margin-bottom: 10px;
+    margin-top: 5px;
+}
+.login input:last-child{
+    margin-top: 40px;
+    width: 220px;
+    height: 40px;
+    background-color: #178bff;
+    color: white;
+}
+span{
+    background-color: #ffad99;
+}
+p{
+    display: inline-block;
+    float: left;
+    padding-left: 40px;
+    margin: 0px;
+}
+
